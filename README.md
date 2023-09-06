@@ -1,10 +1,10 @@
-; Commodore Logo In Logo
-; https://fuzzybad.itch.io/commodore-logo-in-logo
-; 
-; Entry for "C= (Commodore) Logo Code Jam"
-; https://itch.io/jam/retro-logo-game-jam/rate/1864411
-;
-; Author: Jessica Petersen <fuzzybad@gmail.com>
+Commodore Logo In Logo
+https://fuzzybad.itch.io/commodore-logo-in-logo
+ 
+Entry for "C= (Commodore) Logo Code Jam"
+https://itch.io/jam/retro-logo-game-jam/rate/1864411
+
+Author: Jessica Petersen <fuzzybad@gmail.com>
 
 This demo is for the Commodore 64 computer and emulators such as VICE.
 
